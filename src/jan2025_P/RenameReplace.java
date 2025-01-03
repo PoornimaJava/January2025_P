@@ -1,3 +1,5 @@
+package jan2025_P;
+
 import java.util.Scanner;
 
 public class RenameReplace {
