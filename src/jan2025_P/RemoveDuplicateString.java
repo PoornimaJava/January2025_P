@@ -1,3 +1,5 @@
+package jan2025_P;
+
 /**
  * write a program to print after remove duplicate from a string
  */
