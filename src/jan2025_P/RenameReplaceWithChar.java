@@ -1,3 +1,5 @@
+package jan2025_P;
+
 public class RenameReplaceWithChar {
     public static void main(String[] args){
         String val = "this is a simple test";
